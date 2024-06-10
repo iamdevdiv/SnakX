@@ -1,0 +1,26 @@
+CONTROLS OF SnakX:
+
+1. Use arrow keys to move snake UP, DOWN, LEFT AND RIGHT.
+
+2. Type 'CHEATS' anytime to see available cheats and their functions.
+
+4. Press ESC to pause game. Press ESC again to exit game (OR) Press SPACE to resume.
+
+5. Pressing ESC on welcome screen will exit the game immediately.
+
+6. Type 'RESET' anytime to reset game and set High Score to 0.
+
+----------------------------
+
+CREDITS:
+
+This game is created by 'DIVYANSHU TIWARI' while learning pygame library from playlist 'Python Game Development Using Pygame in Hindi' uploaded by channel 'CodeWithHarry' on YouTube.
+
+Special Thanks to 'HARRY', owner of channel 'CodeWithHarry' for teaching Python and pygame for free, through which I could create this game.
+
+Basic logic of game (with some minor changes) is copied from the videos of the playlist mentioned above. Additional content like cheat codes, images, sound effects and music are added by me.
+
+----------------------------
+
+My GitHub Profile: https://github.com/iamdevdiv
+
