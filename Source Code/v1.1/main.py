@@ -10,7 +10,7 @@ pygame.font.init()
 
 
 # Function for encoding and decoding text
-characters = "a0bcdefg1h,jk@m_nop)qr.s/<tu3v!x?;+7yzA6:B=#DE|FG2H'I(JKL^MN&%*OP$QRSTUB9W>5YZ34"
+characters = "a0bcdefg1h,jk@m_nop)qr.s/<tu3v!x8?;+7yzA6:B=#DE|FG2H'I(JKL^MN&%*OP$QRSTUB9W>5YZ34"
 characters_len = len(characters)
 
 def encode(text):
